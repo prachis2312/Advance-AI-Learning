@@ -106,8 +106,5 @@ python code_snippets/stream_test.py
 
 ## Acknowledgements
 
-Built while following an AI learning playlist. Add the playlist/creator link here.
+Built while following an AI learning playlist.
 
-## License
-
-Add a license of your choice (e.g. MIT).
